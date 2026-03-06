@@ -1,4 +1,4 @@
-# **App Name**: AtmosSequence
+# **App Name**: Atmos
 
 ## Core Features:
 
